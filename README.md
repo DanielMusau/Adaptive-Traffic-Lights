@@ -1,6 +1,6 @@
 # Adaptive Traffic Lights System
 
-[![Python version](https://img.shields.io/badge/python-3.11.3-blue.svg)(https://www.python.org/downloads/release/python-3113/)
+[![Python version](https://img.shields.io/badge/python-3.11.3-blue.svg)](https://www.python.org/downloads/release/python-3113/)
 
 <h4>This Adaptive Traffic Signal Timer uses live images from the cameras at traffic junctions for traffic density calculation using YOLO object detection and sets the signal timers accordingly, thus reducing the traffic congestion on roads, providing faster transit to people, and reducing fuel consumption.</h4>
 
