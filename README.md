@@ -35,7 +35,7 @@ This project can be broken down into 3 modules:
 * `Vehicle Detection`
 
 <p align="center">
- <img height=400px src="./vehicle-detection.png" alt="Vehicle Detection">
+ <img height=400px src="vehicle-detection.png" alt="Vehicle Detection">
 </p>
 
 <br> 
@@ -43,7 +43,7 @@ This project can be broken down into 3 modules:
 * `Signal Switching Algorithm and Simulation`
 
 <p align="center">
-    <img src="./Demo.gif">
+    <img src="Demo.gif">
 </p>
 
 ------------------------------------------
